@@ -15,6 +15,6 @@ python run_local.py --help
 --no_postprocess  Disable post-process
 ````
 ##### Run command:
-```(bash)
-python run_local.py --input ./test_images/1.mp4 --output ./test_images --model video --factor 21
+```
+python run_local.py --input ./test_images/1.jpg --output ./test_images/ --model artistic
 ```
