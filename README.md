@@ -5,6 +5,8 @@
 
 ##### Arguments:
 ````
+python run_local.py --help
+
 --input           Input directory or file(image or video)
 --output          Output directory
 --factor          Render factor (default 21)
