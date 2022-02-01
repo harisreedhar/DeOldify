@@ -1,0 +1,5 @@
+Download pre-trained models
+
+https://data.deepai.org/deoldify/ColorizeArtistic_gen.pth
+https://www.dropbox.com/s/usf7uifrctqw9rl/ColorizeStable_gen.pth?dl=0
+https://data.deepai.org/deoldify/ColorizeVideo_gen.pth
